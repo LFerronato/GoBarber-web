@@ -27,20 +27,22 @@ module.exports = {
     'prettier/prettier': 'error',
     'indent': ['error', 2],
     'space-before-function-paren': 'off',
+    'explicit-function-return-type': 'off',
+    'import/first': 'off',
+    'camelcase': 'off',
+    'curly': 'off',
+    'require-await': 'error',
+    'comma-dangle': 'off',
+    'react/jsx-props-no-spreading': 'off',
+    'react/prop-types': 'off',
+    '@typescript-eslint/camelcase': 'off',
+    '@typescript-eslint/interface-name-prefix': 'off',
     '@typescript-eslint/explicit-function-return-type': [
       'error',
       {
         allowExpressions: true
       }
     ],
-    'explicit-function-return-type': 'off',
-    'import/first': 'off',
-    '@typescript-eslint/camelcase': 'off',
-    '@typescript-eslint/interface-name-prefix': 'off',
-    'camelcase': 'off',
-    'curly': 'off',
-    'require-await': 'error',
-    'comma-dangle': 'off',
     '@typescript-eslint/no-unused-vars': [
       'error',
       { 'argsIgnorePattern': '_' }
