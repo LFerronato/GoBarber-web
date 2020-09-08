@@ -3,11 +3,11 @@
 <br />
 <p align="center">
     <img
-      src="./src/assets/logo.svg"
-      alt="Logo"
-      width="316"
-      height="200"
-      style="background: #312E38; padding: 30px; width: 92%;"
+      src="./src/assets/logo.jpg"
+      alt="Logo"s
+      width="230"
+      height="134"
+      style="background: #312E38; padding: 40px;"
     >
   <!-- <h1 align="center">GoBarber - web</h1> -->
   <p align="center">
