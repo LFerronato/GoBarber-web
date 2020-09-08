@@ -76,7 +76,7 @@ const SignIn: React.FC = () => {
           <Form
             ref={formRef}
             onSubmit={handleSubmit}
-            initialData={{ email: 'lucas.fe.pelle@gmail.coma', password: '123' }}
+          // initialData={{ email: 'lucas.fe.pelle@gmail.coma', password: '123' }}
           >
             <h1>Faça seu logon</h1>
 
