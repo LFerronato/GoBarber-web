@@ -1,9 +1,14 @@
-[![Issues][issues-shield]][issues-url]
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="./src/assets/logo.svg" alt="Logo" width="316" height="200">
+    <img
+      src="./src/assets/logo.svg"
+      alt="Logo"
+      width="316"
+      height="200"
+      style="background: #312E38; padding: 30px; width: 92%;"
+    >
   <!-- <h1 align="center">GoBarber - web</h1> -->
   <p align="center">
     Project from bootcamp Rocketseat 💜
